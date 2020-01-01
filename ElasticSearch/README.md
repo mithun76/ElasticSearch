@@ -9,11 +9,11 @@ This repository contains `es.py`(lambda function) and two required packages `req
 
 ### 1 reuests-aws4auth:
 
-            `pip install requests-aws4auth`
+            pip install requests-aws4auth
 
 ### 2 requests:
 
-            `pip install requests`
+            pip install requests
 
 ## If you want to upload you function to AWS Lambda,then follow below steps:
 
