@@ -5,7 +5,7 @@ This repository contains `es.py`(lambda function) and two required packages `req
 
 # Installation
 
-## If you want to test your code from local system user the below command
+## If you want to test your code from local system use the below command to install in your PC
 
     reuests-aws4auth:
     			pip install requests-aws4auth
@@ -15,6 +15,7 @@ This repository contains `es.py`(lambda function) and two required packages `req
 ## If you want to upload you function to AWS Lambda,then follow below steps:
 
 ### 1 download or clone the packages from this git repository.
+
 ### 2 Update code in es.py for your requirment.
 
 # Uploading to Lambda
